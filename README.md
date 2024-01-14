@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on new IOS projects
 - 🌱 I’m currently learning SwiftUI
+- 👯 I’m looking to collaborate on Embedded softare programming
+
 <!--
 **alessandroferlin/alessandroferlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
