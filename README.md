@@ -1,6 +1,9 @@
 ### Hi, I'm Alessandro 👋
 
+**INDIE Developer**
 
+- 🔭 I’m currently working on new IOS projects
+- 🌱 I’m currently learning SwiftUI
 <!--
 **alessandroferlin/alessandroferlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
